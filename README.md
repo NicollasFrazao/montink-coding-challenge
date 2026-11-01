@@ -6,7 +6,7 @@ Hiring challenge for a mini ERP of orders, products, coupons and stock.
 
 Hiring challenge of Montink (2025).
 
-This repository holds only the challenge statement, kept in Portuguese in [`CHALLENGE.md`](CHALLENGE.md). The solution is not included.
+This repository holds only the challenge statement, kept in Portuguese in [`docs/challenge.md`](docs/challenge.md). The solution is not included.
 
 ## Requested scope (from the statement)
 
